@@ -1,0 +1,14 @@
+{
+  "joel_myrie":{
+    "name": "Joel Myrie",
+    "info": "Racketeering"
+  },
+  "allen_arthur":{
+    "name": "Allen Arthur Leigh",
+    "info": "Serial Killer"
+  },
+  "osama_bin":{
+    "name" : "Osama Bin Laden",
+    "info": "International Terrorist"
+  }
+}
